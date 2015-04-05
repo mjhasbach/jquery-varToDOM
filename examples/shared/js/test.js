@@ -2,7 +2,7 @@
     if (typeof define == 'function' && define.amd) {
         define(['jquery', 'varToDOM'], factory);
     } else if (typeof exports == 'object') {
-        module.exports = factory(require('jquery', 'varToDOM'));
+        module.exports = factory(require('jquery'), require('jquery-vartodom'));
     } else {
         factory(root.$);
     }
