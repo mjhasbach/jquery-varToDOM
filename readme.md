@@ -54,3 +54,5 @@ cd examples/shared && npm install
 [Browser Examples](https://github.com/mjhasbach/jquery-varToDOM/tree/master/examples/browser)
 
 [RequireJS Examples](https://github.com/mjhasbach/jquery-varToDOM/tree/master/examples/requirejs)
+
+The examples use the [Tomorrow Night](https://github.com/chriskempson/tomorrow-theme#tomorrow-night) color palette.
