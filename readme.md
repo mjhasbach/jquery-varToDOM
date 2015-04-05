@@ -4,16 +4,16 @@
 A jQuery plugin for rendering variables to the DOM. Supports nested objects and arrays. Browser, RequireJS, and CommonJS environments are supported.
 
 ## API
-####$.varToDOM(```opt```)
+#### $.varToDOM(```opt```)
 
 Render a variable to the DOM.
 
 * object `opt` - An options object
- * string|number|boolean|array|object `var` - The variable to be rendered
- * number `indentation` - (Optional) The initial indentation level. Defaults to 0.
- * number `indentationPadding` - (Optional) The amount of padding per indentation. Defaults to 20px.
- * number `valPadding` - (Optional) The amount of padding in between each key and value. Defaults to 10px.
- * function `onComplete` - (Optional) A function to be executed after the variable is rendered
+  * string|number|boolean|array|object `var` - The variable to be rendered
+  * number `indentation` - (Optional) The initial indentation level. Defaults to 0.
+  * number `indentationPadding` - (Optional) The amount of padding per indentation. Defaults to 20px.
+  * number `valPadding` - (Optional) The amount of padding in between each key and value. Defaults to 10px.
+  * function `onComplete` - (Optional) A function to be executed after the variable is rendered
 
 __Example__
 
