@@ -12,7 +12,7 @@ Render a variable to the DOM.
   * string|number|boolean|array|object `var` - The variable to be rendered
   * number `indentation` - (Optional) The initial indentation level. Defaults to 0.
   * number `indentationPadding` - (Optional) The amount of padding per indentation. Defaults to 20px.
-  * number `valPadding` - (Optional) The amount of padding in between each key and value. Defaults to 10px.
+  * number `keyValPadding` - (Optional) The amount of padding in between each key and value. Defaults to 10px.
   * function `onComplete` - (Optional) A function to be executed after the variable is rendered
 
 __Example__
@@ -21,7 +21,7 @@ __Example__
 $('body').varToDOM({
     indentation: 1,
     indentationPadding: 50,
-    valPadding: 30,
+    keyValPadding: 30,
     var: {
         burger: {
             delicious: true,
