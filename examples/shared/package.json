@@ -1,0 +1,9 @@
+{
+  "name": "jquery-varToDOM-examples",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.3",
+    "requirejs": "~2.1.16"
+  }
+}

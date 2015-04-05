@@ -1,0 +1,33 @@
+{
+  "name": "jquery-vartodom",
+  "version": "1.0.0",
+  "description": "A jQuery plugin for rendering variables to the DOM. Supports nested objects and arrays.",
+  "license": "MIT",
+  "homepage": "https://github.com/mjhasbach/jquery-varToDOM",
+  "dependencies": {
+    "jquery": "~2.1.3"
+  },
+  "keywords": [
+    "jquery",
+    "render",
+    "var",
+    "variable",
+    "nested",
+    "string",
+    "number",
+    "boolean",
+    "object",
+    "array",
+    "DOM",
+    "browser",
+    "commonjs",
+    "requirejs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mjhasbach/jquery-varToDOM.git"
+  },
+  "authors": [
+    "Matthew Hasbach <hasbach.git@gmail.com> (https://github.com/mjhasbach)"
+  ]
+}

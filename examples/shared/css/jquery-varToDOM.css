@@ -1,0 +1,39 @@
+body{
+    background-color: #1d1f21;
+    font-size: 30px;
+}
+
+.header{
+    color: #969896;
+    text-decoration: underline;
+}
+
+.varToDOM{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.key{
+    color: #969896;
+    font-weight: bold;
+}
+
+.boolean{
+    color: #81a2be
+}
+
+.string{
+    color: #cc6666;
+}
+
+.number{
+    color: #b294bb;
+}
+
+.array{
+    color: #f0c674;
+}
+
+.object{
+    color: #b5bd68;
+}
