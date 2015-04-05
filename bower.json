@@ -1,6 +1,6 @@
 {
   "name": "jquery-vartodom",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A jQuery plugin for rendering variables to the DOM. Supports nested objects and arrays.",
   "license": "MIT",
   "homepage": "https://github.com/mjhasbach/jquery-varToDOM",
